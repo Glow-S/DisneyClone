@@ -1,5 +1,5 @@
 import React from "react";
-import "../style/components/pages/LoginPages.css";
+import "../../style/components/pages/LoginPages.css";
 
 function LoginPages() {
   return (
@@ -19,11 +19,10 @@ function LoginPages() {
           />
         </form>
         <a
-          className="pointer"
-          href="https://grupo3-itbank.github.io/WEB/index.html"
+          href="#"
         >
-          <button className="buton-continuar">
-            <label className="text-continuar text-ingreso">CONTINUAR</label>
+          <button className="buton-continuar pointer t-color-lgb">
+            <label className="text-continuar text-ingreso pointer ">CONTINUAR</label>
           </button>
         </a>
         <h4 className="txt-links mt-5">

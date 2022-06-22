@@ -48,3 +48,11 @@
 .mt-5 {
   margin-top: 50px;
 }
+
+
+/*COLORES TRANSICION*/
+
+.t-color-lgb:hover{
+  background-color: #2e91d3;
+  transition-duration: 0.6s;
+}
