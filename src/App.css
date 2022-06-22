@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+  background-color: #1a1d29;
+  font-family: "Ubuntu", sans-serif;
+  letter-spacing: -0.1px;
+  line-height: 1.6;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow-x: hidden;
+}
+
+.txt-links {
+  text-decoration: none;
+  text-decoration-line: none;
+  font-size: 15px;
+  color: #cacaca;
+}
+
+/*---MARGINS---*/
+.mt-1 {
+  margin-top: 10px;
+}
+
+.mt-2 {
+  margin-top: 20px;
+}
+
+.mt-3 {
+  margin-top: 30px;
+}
+
+.mt-4 {
+  margin-top: 40px;
+}
+
+.mt-5 {
+  margin-top: 50px;
+}
